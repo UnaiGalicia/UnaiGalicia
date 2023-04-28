@@ -1,5 +1,5 @@
 Hello, I’m @UnaiGalicia !
-- 👀 I’m interested in telecommunication systems.
+- 👀 I’m interested in telecommunication systems and digital design in general.
 - 🌱 I’m currently studying for a Master's Degree in Telecommunications engineering.
 - 📫 How to reach me: unaigalicia99@gmail.com
 
